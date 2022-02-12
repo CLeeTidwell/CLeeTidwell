@@ -10,9 +10,9 @@
 
 My name is Christopher Tidwell and I am based out in Seattle, WA. I am a student under University of Washington's coding bootcamp, learning Full-Stack Web Development. I work with a group of 5 students in our class, including myself, on various projects, as well as support and provide increased potential for innovation together as a team. I want to help build mobile-friendly applications of the web to bring ease of use to those who need it, as well as make access easier for those who aren't technically inclined. Thank you for stopping by and thank you for your time. My link to my portfolio will be below.
 
-- Chris
+Chris
 
-## Contact
+## Portfolio & Contact
 
 https://cleetidwell.github.io/UpdatedPortfolio/
 
