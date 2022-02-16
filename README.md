@@ -3,7 +3,7 @@
 - 👋 Hi, My username is @CLeeTidwell
 - 👀 I’m interested in building mobile-friendly web applications.
 - 🌱 I’m currently learning Full-Stack Web Development.
-- 💞️ I’m from the PNW, and I love the rainy weather.
+- 💞️ I’m open to learn all things in web development.
 - 📫 How to reach me via e-mail Ctidwell106@gmail.com
 
 ## About Me
