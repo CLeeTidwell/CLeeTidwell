@@ -14,7 +14,7 @@ Chris
 
 ## Portfolio & Contact
 
-https://cleetidwell.github.io/UpdatedPortfolio/
+https://cleetidwell.github.io/MyPortfolio/
 
 Ctidwell106@gmail.com
 
